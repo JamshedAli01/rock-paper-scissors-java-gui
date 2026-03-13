@@ -4,8 +4,7 @@ This project is a simple Rock Paper Scissors game built using Java with a graphi
 
 ## Screenshot
 
-![Game Screenshot]
-(game_screenshot.png)
+![Game Screenshot](game_screenshot.png)
 
 ## Features
 - Player vs Computer gameplay
